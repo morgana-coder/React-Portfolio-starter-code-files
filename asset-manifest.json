@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-portfolio-starter-code-files/static/js/main.c9df694e.chunk.js",
+    "main.js.map": "/react-portfolio-starter-code-files/static/js/main.c9df694e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-starter-code-files/static/js/runtime-main.89ca6bf3.js",
+    "runtime-main.js.map": "/react-portfolio-starter-code-files/static/js/runtime-main.89ca6bf3.js.map",
+    "static/css/2.679831fc.chunk.css": "/react-portfolio-starter-code-files/static/css/2.679831fc.chunk.css",
+    "static/js/2.37566f82.chunk.js": "/react-portfolio-starter-code-files/static/js/2.37566f82.chunk.js",
+    "static/js/2.37566f82.chunk.js.map": "/react-portfolio-starter-code-files/static/js/2.37566f82.chunk.js.map",
+    "index.html": "/react-portfolio-starter-code-files/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/react-portfolio-starter-code-files/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.37566f82.chunk.js.LICENSE.txt": "/react-portfolio-starter-code-files/static/js/2.37566f82.chunk.js.LICENSE.txt",
+    "static/media/profile_pic.fc9f4ae8.png": "/react-portfolio-starter-code-files/static/media/profile_pic.fc9f4ae8.png",
+    "static/media/resume.pdf": "/react-portfolio-starter-code-files/static/media/resume.7afd8f39.pdf",
+    "static/media/spaceman.5ec7fcfa.png": "/react-portfolio-starter-code-files/static/media/spaceman.5ec7fcfa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89ca6bf3.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.37566f82.chunk.js",
+    "static/js/main.c9df694e.chunk.js"
+  ]
+}
